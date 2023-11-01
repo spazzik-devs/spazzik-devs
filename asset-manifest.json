@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/spazzik-devs.git/static/css/main.38608ea6.css",
-    "main.js": "/spazzik-devs.git/static/js/main.8d4b447c.js",
-    "static/media/wavy1.png": "/spazzik-devs.git/static/media/wavy1.086bb570f67f41b14239.png",
-    "static/media/amaka.jpg": "/spazzik-devs.git/static/media/amaka.a0459e64fa34ec6c8fed.jpg",
-    "static/media/responsive.svg": "/spazzik-devs.git/static/media/responsive.788771730960acad9fc0719d030bc9ba.svg",
-    "static/media/seo.svg": "/spazzik-devs.git/static/media/seo.d82e892d85092af9089d6e3203e23047.svg",
-    "static/media/isaac.jpg": "/spazzik-devs.git/static/media/isaac.a6728e3825945fa0d97a.jpg",
-    "static/media/hosting.svg": "/spazzik-devs.git/static/media/hosting.5655c3c6c2713cd220bd7ff0e62ea5ad.svg",
-    "static/media/service-image.svg": "/spazzik-devs.git/static/media/service-image.1066d1a4614874544cd7ce199daa256f.svg",
-    "static/media/FAQs-pana.svg": "/spazzik-devs.git/static/media/FAQs-pana.62d5abe06170b2a79169303ba2084b0b.svg",
-    "static/media/woman.jpg": "/spazzik-devs.git/static/media/woman.2ac6ac3ded5515e884f9.jpg",
-    "static/media/design.svg": "/spazzik-devs.git/static/media/design.96c0dc6a57475eb2e4695eb4f4152188.svg",
-    "static/media/about-image.svg": "/spazzik-devs.git/static/media/about-image.08507bd96746dbbfeae2bb319892ba1d.svg",
-    "static/media/mobile.svg": "/spazzik-devs.git/static/media/mobile.93b3cca7199e7a3aaf1160e783b38ede.svg",
-    "static/media/contactus.svg": "/spazzik-devs.git/static/media/contactus.0db8b120e2fade8b3265245dbd533541.svg",
-    "index.html": "/spazzik-devs.git/index.html",
-    "main.38608ea6.css.map": "/spazzik-devs.git/static/css/main.38608ea6.css.map",
-    "main.8d4b447c.js.map": "/spazzik-devs.git/static/js/main.8d4b447c.js.map"
+    "main.css": "/static/css/main.f3a7888a.css",
+    "main.js": "/static/js/main.2e2b0fb0.js",
+    "static/media/wavy1.png": "/static/media/wavy1.086bb570f67f41b14239.png",
+    "static/media/amaka.jpg": "/static/media/amaka.a0459e64fa34ec6c8fed.jpg",
+    "static/media/responsive.svg": "/static/media/responsive.788771730960acad9fc0719d030bc9ba.svg",
+    "static/media/seo.svg": "/static/media/seo.d82e892d85092af9089d6e3203e23047.svg",
+    "static/media/isaac.jpg": "/static/media/isaac.a6728e3825945fa0d97a.jpg",
+    "static/media/hosting.svg": "/static/media/hosting.5655c3c6c2713cd220bd7ff0e62ea5ad.svg",
+    "static/media/service-image.svg": "/static/media/service-image.1066d1a4614874544cd7ce199daa256f.svg",
+    "static/media/FAQs-pana.svg": "/static/media/FAQs-pana.62d5abe06170b2a79169303ba2084b0b.svg",
+    "static/media/woman.jpg": "/static/media/woman.2ac6ac3ded5515e884f9.jpg",
+    "static/media/design.svg": "/static/media/design.96c0dc6a57475eb2e4695eb4f4152188.svg",
+    "static/media/about-image.svg": "/static/media/about-image.08507bd96746dbbfeae2bb319892ba1d.svg",
+    "static/media/mobile.svg": "/static/media/mobile.93b3cca7199e7a3aaf1160e783b38ede.svg",
+    "static/media/contactus.svg": "/static/media/contactus.0db8b120e2fade8b3265245dbd533541.svg",
+    "index.html": "/index.html",
+    "main.f3a7888a.css.map": "/static/css/main.f3a7888a.css.map",
+    "main.2e2b0fb0.js.map": "/static/js/main.2e2b0fb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.38608ea6.css",
-    "static/js/main.8d4b447c.js"
+    "static/css/main.f3a7888a.css",
+    "static/js/main.2e2b0fb0.js"
   ]
 }
