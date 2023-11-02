@@ -149,7 +149,7 @@ function App() {
       <div className="wave wave1"></div>
       
       <div className="fas fa-Cog fa-spin nut1"><FontAwesomeIcon icon={faCog} /></div>
-      <div className='fas fa-Cog fa-spin-pulse nut2'><FontAwesomeIcon icon={faCog} /></div>
+      <div className='fas fa-Cog fa-spin nut2'><FontAwesomeIcon icon={faCog} /></div>
 
         </Element>
 
@@ -288,15 +288,15 @@ function App() {
           </div>
 
           <div className="form-container">
-            <form action="https://formsubmit.co/niksavage5@gmail.com" method="POST">
+            <form action="https://formsubmit.co/b1b96b8d9d18b2e3297dd31b76130575" method="POST">
 
               <div className="inputBox">
-                <input type='text' name="f-name" id="f-name" placeholder='First name' />
-                <input type='text' name="l-name" id="l-name" placeholder='Last name' />
+                <input type='text' name="first-name" id="first-name" placeholder='First name' required />
+                <input type='text' name="last-name" id="last-name" placeholder='Last name' required/>
               </div>
 
-              <input type='email' name="email" id="email" placeholder='Email'/>
-              <textarea name='' cols='30'rows='10' placeholder='Write your message' style={{ resize: `none` }}></textarea>
+              <input type='email' name="email" id="email" placeholder='Email' required/>
+              <textarea id="message" name='message' cols='30'rows='10' placeholder='Write your message' required style={{ resize: `none` }}></textarea>
               <input type='submit' value='send' />
 
 
